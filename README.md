@@ -14,21 +14,21 @@ Berisi REST API data Pasien
 ## Login
 ![laravel-api-jwt](https://github.com/Prasdimas/hospital-app/blob/master/public/img/Login.png)
 ## Register
-![laravel-api-jwt](/public/img/register.PNG)
+![laravel-api-jwt](https://github.com/Prasdimas/hospital-app/blob/master/public/img/register.PNG)
 ## Refresh Token
-![laravel-api-jwt](/public/img/refreshtoken.PNG)
+![laravel-api-jwt](https://github.com/Prasdimas/hospital-app/blob/master/public/img/refreshtoken.PNG)
 ## Logout
-![laravel-api-jwt](/public/img/logout.PNG)
+![laravel-api-jwt](https://github.com/Prasdimas/hospital-app/blob/master/public/img/logout.PNG)
 ## Cek Token
-![laravel-api-jwt](/public/img/cekdata.PNG)
+![laravel-api-jwt](https://github.com/Prasdimas/hospital-app/blob/master/public/img/cekdata.PNG)
 ## Buat Data Pasien 
-![laravel-api-jwt](/public/img/tambahdatapasien.PNG)
+![laravel-api-jwt](https://github.com/Prasdimas/hospital-app/blob/master/public/img/tambahdatapasien.PNG)
 ## GET Data Pasien 
-![laravel-api-jwt](/public/img/datapasien.PNG)
+![laravel-api-jwt](https://github.com/Prasdimas/hospital-app/blob/master/public/img/datapasien.PNG)
 ## Update Data Pasien 
-![laravel-api-jwt](/public/img/updatedatapasien.PNG)
+![laravel-api-jwt](https://github.com/Prasdimas/hospital-app/blob/master/public/img/updatedatapasien.PNG)
 ## Delete Data Pasien 
-![laravel-api-jwt](/public/img/hapusdatapasien.PNG)
+![laravel-api-jwt](https://github.com/Prasdimas/hospital-app/blob/master/public/img/hapusdatapasien.PNG)
 
 
 # hospital-app
