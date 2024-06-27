@@ -12,7 +12,7 @@
 Berisi REST API data Pasien 
 
 ## Login
-![laravel-api-jwt](/public/img/login.PNG)
+![laravel-api-jwt](https://github.com/Prasdimas/hospital-app/blob/master/public/img/Login.png)
 ## Register
 ![laravel-api-jwt](/public/img/register.PNG)
 ## Refresh Token
